@@ -1,0 +1,70 @@
+﻿Name_car;Type;Fuel_type;The_car_isnew;Year;Transmission;Seats;Engine;prices
+Kia;Taxi;Petrol;No;2021;Automatic;5;1330;40000 $
+Jeep ;Taxi;Petrol;Yes;2019;Automatic;4;1368;56000 $
+Mazda;Bus;Petrol;No;2016;Automatic;4;2494;62000 $
+Toyota;Pick up;Petrol;No;2018;Automatic;4;1199;36000 $
+BMW;Taxi;Petrol;No;2020;Manual;4;1197;36000 $
+Honda;Taxi;Petrol;Yes;2016;Automatic;3;1197;65000 $
+Mazda;Taxi;Petrol;Yes;2017;Automatic;4;1197;30000 $
+AUDI;Taxi;Diesel;No;2017;Manual;4;1396;67000 $
+Toyota;Taxi;Petrol;Yes;2012;Automatic;4;814;5500   $
+FORD;Taxi;Petrol;No;2017;Automatic;8;1498;36000 $
+OPEL;Taxi;Petrol;No;2017;Manual;4;1197;30000 $
+Cadillac;Bus;Petrol;No;2014;Automatic;4;1497;30000 $
+Mazda;Pick up;Petrol;Yes;2014;Automatic;4;1198;34000 $
+Kia;Taxi;Petrol;Yes;2012;Manual;3;1497;59800 $
+Honda;Taxi;Diesel;No;2013;Automatic;4;2143;37900 $
+Mercedes ;Taxi;Diesel;No;2013;Manual;4;1248;30000 $
+Jeep ;Taxi;Petrol;No;2018;Manual;4;799;39000 $
+BMW;Pick up;Petrol;Yes;2017;Manual;4;1373;30000 $
+Toyota;Taxi;Petrol;Yes;2015;Manual;4;1198;63400 $
+Mercedes ;Taxi;Petrol;No;2019;Automatic;4;1462;36000 $
+SEAT;Taxi;Petrol;No;2014;Manual;4;1197;34000 $
+VolkswaFerrari;Bus;Petrol;No;2017;Manual;4;799;63400 $
+AUDI;Truck;Petrol;Yes;2019;Manual;4;799;63400 $
+PORSCHE;Taxi;Diesel;Yes;2019;Manual;6;1956;62000 $
+FORD;Taxi;Petrol;Yes;2018;Manual;4;1197;30000 $
+OPEL;Taxi;Petrol;Yes;2014;Manual;4;998;39000 $
+Cadillac;Taxi;Petrol;Yes;2015;Manual;4;1591;30000 $
+BMW;Pick up;Petrol;Yes;2015;Automatic;4;1999;37000 $
+Jeep ;Taxi;Petrol;No;2018;Manual;4;1197;30000 $
+Mercedes ;Taxi;Petrol;No;2021;Manual;4;999;36000 $
+Honda;Taxi;Petrol;No;2016;Automatic;4;1497;37900 $
+Kia;Bus;Petrol;Yes;2015;Manual;5;1198;59800 $
+Mazda;Truck;Petrol;Yes;2016;Manual;4;1197;34000 $
+Toyota;Taxi;Petrol;Yes;2017;Manual;4;814;39000 $
+Mercedes ;Taxi;Petrol;Yes;2016;Manual;4;796;37000 $
+SEAT;Taxi;Petrol;Yes;2016;Manual;4;799;39000 $
+VolkswaFerrari;Taxi;Petrol;Yes;2014;Manual;4;814;39000 $
+AUDI;Pick up;Petrol;No;2016;Automatic;8;1199;30000 $
+PORSCHE;Taxi;Petrol;No;2018;Manual;4;796;63400 $
+FORD;Taxi;Petrol;No;2018;Manual;4;799;63400 $
+OPEL;Taxi;Petrol;Yes;2015;Manual;4;1198;34000 $
+Cadillac;Bus;Petrol;Yes;2019;Manual;4;1353;62000 $
+BMW;Truck;Diesel;Yes;2017;Manual;4;1956;67000 $
+Jeep ;Taxi;Petrol;Yes;2020;Automatic;6;1451;49000 $
+Mercedes ;Taxi;Diesel;Yes;2019;Manual;4;1956;62000 $
+Honda;Taxi;Diesel;Yes;2019;Automatic;4;1498;37900 $
+Kia;Taxi;Diesel;No;2019;Automatic;4;1995;34000 $
+Mazda;Pick up;Diesel;No;2017;Manual;4;1396;30000 $
+Toyota;Taxi;Petrol;No;2018;Automatic;4;1991;37000 $
+Mercedes ;Taxi;Petrol;Yes;2020;Manual;6;1462;65000 $
+SEAT;Taxi;Petrol;Yes;2017;Automatic;4;1197;30000 $
+VolkswaFerrari;Bus;Diesel;Yes;2012;Manual;6;2179;30000 $
+AUDI;Truck;Petrol;Yes;2017;Manual;4;1197;30000 $
+PORSCHE;Taxi;Petrol;Yes;2020;Automatic;4;999;63400 $
+FORD;Taxi;Petrol;Yes;2015;Automatic;4;1198;30000 $
+OPEL;Taxi;Petrol;No;2015;Automatic;4;1497;37900 $
+Cadillac;Taxi;Petrol;No;2014;Manual;5;1798;37900 $
+BMW;Pick up;Petrol;No;2018;Manual;4;1368;43000 $
+Jeep ;Taxi;Diesel;Yes;2015;Automatic;4;1985;62000 $
+Mercedes ;Taxi;Petrol;Yes;2019;Manual;4;1798;43000 $
+Honda;Taxi;Petrol;Yes;2019;Manual;4;1591;37900 $
+Kia;Bus;Diesel;Yes;2015;Automatic;4;1968;56000 $
+Mazda;Truck;Diesel;Yes;2012;Automatic;7;1968;43000 $
+Toyota;Taxi;Diesel;Yes;2012;Automatic;4;2993;62000 $
+Mercedes ;Taxi;Diesel;No;2014;Automatic;4;4134;30000 $
+SEAT;Taxi;Petrol;No;2008;Manual;4;998;55000 $
+VolkswaFerrari;Taxi;Diesel;No;2015;Manual;4;1498;30000 $
+AUDI;Pick up;Petrol;Yes;2016;Automatic;4;1199;30000 $
+PORSCHE;Taxi;Diesel;Yes;2012;Manual;4;1598;39000 $
